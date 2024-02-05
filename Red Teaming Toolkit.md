@@ -414,11 +414,3 @@ This file contains cutting-edge open-source security tools (OST) that will help 
 | Ghostwriter | Ghostwriter is a Django-based web application designed to be used by an individual or a team of red team operators. | https://github.com/GhostManager/Ghostwriter |
 | VECTR | VECTR is a tool that facilitates tracking of your red and blue team testing activities to measure detection and prevention capabilities across different attack scenarios | https://github.com/SecurityRiskAdvisors/VECTR |
 | PurpleOps | An open-source self-hosted purple team management web application. | https://github.com/CyberCX-STA/PurpleOps |
-
-[Active Directory Kill Chain Attack & Defense](Red%20Teaming%20Toolkit%20577dcac0ac794676a67cca1cb328f06f/Active%20Directory%20Kill%20Chain%20Attack%20&%20Defense%202eb270f03ef94ecfaf2f05c3d3f012e7.md)
-
-[WinPwn](Red%20Teaming%20Toolkit%20577dcac0ac794676a67cca1cb328f06f/WinPwn%20e8dd29f0960d4135ae145bdd6736f4a1.md)
-
-[AD - mindmap ](Red%20Teaming%20Toolkit%20577dcac0ac794676a67cca1cb328f06f/AD%20-%20mindmap%20cf2f05d60d634da3a7236c7a647cde19.md)
-
-[](Red%20Teaming%20Toolkit%20577dcac0ac794676a67cca1cb328f06f/Untitled%200326445cdee749f19f7b17ccca8e9201.md)
